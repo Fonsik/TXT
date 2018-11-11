@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.12.12)  11 NOV 2018 23:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.12.12)  12 NOV 2018 00:20
 entering extended mode
 **./lic1.tex
 (lic1.tex
@@ -375,7 +375,65 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@liczbaAutorow=\count89
 )
-\c@defi=\count90
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen108
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen109
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+\c@defi=\count102
  (lic1.aux)
 \openout1 = `lic1.aux'.
 
@@ -391,15 +449,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
 LaTeX Font Info:    ... okay on input line 91.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
 LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 93.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 93.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 93.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 93.
- [1
+
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
@@ -416,11 +467,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 
 ] [4
 
-] [5] [6
-
-]
+] [5] [6]
 Rozdzia\l  1.
-[7] [8
+[7
+
+] [8
 
 ]
 Rozdzia\l  2.
@@ -440,27 +491,31 @@ Dodatek A.
 
 ]) [17] (lic1.aux) ) 
 Here is how much of TeX's memory you used:
- 1356 strings out of 493320
- 13686 string characters out of 3138936
- 80559 words of memory out of 3000000
- 4914 multiletter control sequences out of 15000+200000
- 18020 words of font info for 40 fonts, out of 3000000 for 9000
+ 1969 strings out of 493320
+ 20611 string characters out of 3138936
+ 90095 words of memory out of 3000000
+ 5509 multiletter control sequences out of 15000+200000
+ 18918 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,25p,3601b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,7n,25p,3691b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-su
-per-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/cm-super/sfbx2488.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/cm-super/sfrm1095.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-s
-uper/sfrm1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm
-1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb>
-
-Output written on lic1.pdf (19 pages, 206607 bytes).
+per-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/cm-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/s
+fbx1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2074.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/cm-super/sfti1095.pfb>
+Output written on lic1.pdf (19 pages, 248783 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 125 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
