@@ -1,6 +1,6 @@
 \select@language {polish}
 \contentsline {chapter}{Wprowadzenie}{5}
-\contentsline {chapter}{\numberline {1}Pr\IeC {\'o}bki}{7}
+\contentsline {chapter}{\numberline {1}Pr\IeC {\'o}bka}{7}
 \contentsline {chapter}{\numberline {2}Metody eksperymentalne}{9}
 \contentsline {chapter}{\numberline {3}Wynkiki}{11}
 \contentsline {section}{\numberline {3.1}Wyniki surowe}{11}

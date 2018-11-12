@@ -16,6 +16,7 @@
 % dodaj opcję [en] dla wersji angielskiej (mogą być obie: [licencjacka,en])
 \documentclass[licencjacka]{pracamgr}
 \usepackage{amsmath}
+\usepackage{graphicx}
 
 % Dane magistranta:
 \autor{Tomasz Fąs}{382348}
@@ -114,11 +115,17 @@ Jednym z ważniejszych efektów w mechanice kwantowej jest tunelowanie, czyli pr
 \end{bmatrix}  
 \end{equation}
 
-gdzie $\omega_{MQW}$, $\omega_{NMQW}$ i $\omega_{C}$ oznaczają kolejno energie studni magnetycznej, niemagnetycznej i modu optycznego i są zależne od wartości pola magnetycznego $B$, a $\Omega$ oznacza siłę sprzężenia między studnią a modem. Jak widać, hamiltonian nie opisuje bezpośredniego przejścia z jednej studni do drugiej. Wynika to z szerokiej przerwy między studniami; bezpośredni transport jest pomijalny, jedyny wkład pochodzi od pośrednictwa modu optycznego, czyli procesu postaci rekombinacja $\rightarrow$ powstanie ekscytonu w drugiej studni $\rightarrow$ ponowna rekombinacja w drugiej studni.
+gdzie $\omega_{MQW}$, $\omega_{NMQW}$ i $\omega_{C}$ oznaczają kolejno energie studni magnetycznej, niemagnetycznej i modu optycznego i są zależne od wartości pola magnetycznego $B$, a $\Omega$ oznacza siłę sprzężenia między studnią a modem. %Jak widać, hamiltonian nie opisuje bezpośredniego przejścia z jednej studni do drugiej. Wynika to z szerokiej przerwy między studniami; bezpośredni transport jest pomijalny, jedyny wkład pochodzi od pośrednictwa modu optycznego, czyli procesu postaci rekombinacja $\rightarrow$ powstanie ekscytonu w drugiej studni $\rightarrow$ ponowna rekombinacja w drugiej studni.%
 
-\chapter{Próbki}\label{r:probki}
+\chapter{Próbka}\label{r:probka}
+Próbka została wykonana przez dr hab. Wojciecha Pacuskiego z Zakładu Fizyki Ciała Stałego. Do jej wykonania skorzystano z dwukomorowej maszyny MBE. Całość została wyhodowana na podstawce z (100) GaAs:Si. Dalej zastosowano warstwę buforową CdZnMgTe o grubości 1 $\mu$m. Na buforze wyhodowano 26 par zwierciadeł Bragga oznaczonych jako DBR, 3 studnie kwantowe (Cd,Zn,Mn)Te o grubości 10 nm oddalone od siebie również o 10 nm, barierę z CdZnMgTe o grubości 125 nm i 3 studnie kwantowe CdZnMgTe o grubości 10 nm i odległości od siebie wynoszącej 10 nm. Całość zwieńczają 22 pary zwierciadeł Bragga. Schemat próbki wraz z procentową zawartością pierwiastków znajduje się na Rysunku 1.1.
+Studnie tu wykorzystane są wykonane z materiału typu DMS, czyli półprzewodnika półmagnetycznego. Materiał tego typu wykazuje właściwości zarówno półprzewodnikowe jak i magnetyczne, pozwalając np. na kontrolę jego poziomów energetycznych przy pomocy pola magnetycznego.
 
-
+\begin{figure}[h!]
+\includegraphics[width=13cm]{Probka} 
+\centering
+\caption{Schemat próbki.}
+\end{figure}
 
 \chapter{Metody eksperymentalne}\label{r:metody}
 
