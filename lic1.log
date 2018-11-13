@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.12.12)  13 NOV 2018 10:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.12.12)  13 NOV 2018 12:46
 entering extended mode
 **./lic1.tex
 (lic1.tex
@@ -558,10 +558,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--99
 
 ] [5] [6]
 Rozdzia\l  1.
-<Probka.png, id=39, 2672.48438pt x 2197.45969pt>
+<Probka.png, id=40, 2672.48438pt x 2197.45969pt>
 File: Probka.png Graphic file (type png)
  <use Probka.png>
-Package pdftex.def Info: Probka.png used on input line 124.
+Package pdftex.def Info: Probka.png used on input line 129.
 (pdftex.def)             Requested size: 369.88582pt x 304.12155pt.
  [7
 
@@ -587,28 +587,29 @@ Dodatek A.
 Here is how much of TeX's memory you used:
  3223 strings out of 493320
  39180 string characters out of 3138936
- 116170 words of memory out of 3000000
+ 115208 words of memory out of 3000000
  6699 multiletter control sequences out of 15000+200000
  18918 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,7n,25p,3694b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,25p,2212b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-su
 per-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/cm-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm
--super/sfbx1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sf
-bx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2488.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on lic1.pdf (19 pages, 683466 bytes).
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/cm-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/s
+fbx1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2074.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/cm-super/sfti1095.pfb>
+Output written on lic1.pdf (19 pages, 691407 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
+ 128 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
