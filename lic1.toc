@@ -1,4 +1,4 @@
-\select@language {polish}
+\babel@toc {polish}{}
 \contentsline {chapter}{Wprowadzenie}{5}
 \contentsline {chapter}{\numberline {1}Pr\IeC {\'o}bka}{7}
 \contentsline {chapter}{\numberline {2}Metody eksperymentalne}{9}

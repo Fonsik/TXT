@@ -315,7 +315,7 @@
 	   Data \hfill Podpis kierującego pracą 
 	   
 	   \vspace{3cm}
-	   \textbf{\Large Oświadczenie autora (autorów) pracy}
+	   \textbf{\Large Oświadczenie autora pracy}
 		\vspace{10mm}
 		
 	   \'{S}wiadom odpowiedzialności prawnej oświadczam, że niniejsza praca dyplomowa została 

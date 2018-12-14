@@ -1,10 +1,15 @@
 \begin{thebibliography}{1}
 
 \bibitem{1990}
-Benoit Deveaud, Fabrice Clerot, A~Chomette, A~Regreny, R~Ferreira, Gérald
-  Bastard, and Bernard Sermage.
+B.~Deveaud, F.~Clerot, A.~Chomette, A.~Regreny, R.~Ferreira, G.~Bastard, and
+  B.~Sermage.
 \newblock Tunneling and relaxation in coupled quantum wells.
 \newblock {\em EPL (Europhysics Letters)}, 11:367, 02 1990.
+
+\bibitem{1991}
+S.~A. Gurvitz, I.~Bar-Joseph, and B.~Deveaud.
+\newblock Quantum tunneling and relaxation in asymmetric coupled wells.
+\newblock {\em Phys. Rev. B}, 43:14703--14706, Jun 1991.
 
 \bibitem{1994}
 I.~Lawrence, S.~Haacke, H.~Mariette, W.~W. R\"uhle, H.~Ulmer-Tuffigo,
